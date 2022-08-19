@@ -5,6 +5,13 @@ name = "pypi"
 
 [packages]
 sqlalchemy = "*"
+pipfile = "*"
+requests = "*"
+beautifulsoup4 = "*"
+certifi = "*"
+ndg-httpsclient = "*"
+pyopenssl = "*"
+pyasn1 = "*"
 
 [dev-packages]
 
